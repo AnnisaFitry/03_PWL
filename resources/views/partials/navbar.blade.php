@@ -23,7 +23,7 @@
 								<li><a href="/shop">Sidebar Shop</a></li>
 								<li><a href="/shop-detail">Shop Detail</a></li>
                                 <li><a href="/cart">Cart</a></li>
-                                <li><a href="/checkout">Checkout</a></li>
+                                <li><a href="/checkout">Check Out</a></li>
                                 <li><a href="/my-account">My Account</a></li>
                                 <li><a href="/wishlist">Wishlist</a></li>
                             </ul>
@@ -39,7 +39,7 @@
                     <ul>
                         <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
                         <li class="side-menu">
-							<a href="#">
+							<a href="/cart">
 								<i class="fa fa-shopping-bag"></i>
 								<span class="badge">3</span>
 								<p>My Cart</p>
